@@ -1,6 +1,6 @@
 ## 2024 컴포즈 정원사 샘플 프로젝트
 
-발표 자료: TODO
+[발표 자료](https://speakerdeck.com/jisungbin/2024-keompojeu-jeongweonsa)
 
 ### Build
 
