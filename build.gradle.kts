@@ -1,6 +1,6 @@
 plugins {
   kotlin("jvm") version "2.0.0"
-  kotlin("plugin.compose") version "2.0.0"
+  kotlin("plugin.compose") version "2.0.20"
   application
   `java-base`
 }
