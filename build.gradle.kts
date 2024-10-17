@@ -15,6 +15,6 @@ repositories {
 }
 
 dependencies {
-  implementation("androidx.compose.runtime:runtime:1.6.8")
+  implementation("androidx.compose.runtime:runtime:1.7.4")
   implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.9.0-RC")
 }
